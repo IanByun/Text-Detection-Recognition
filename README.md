@@ -14,8 +14,12 @@ PyTorch version of CRNN yields much better result than Tensorflow version.
 python ctpn_crnn_pytorch.py
 ```
 
-# result
+# report
+For implementation detail or experiment results, refer to the [report](20180624_Text-Detection-Recognition.pdf).
 
 
-# paper
+# some results
+<img src="/ocr_result/20180415_110144.jpg" width=501 height=282/>
+<img src="/ocr_result/COCO_train2014_000000268711.jpg" width=425 height=282/>
 
+<img src="/ocr_result/20180415_164208.jpg" width=360 height=640/><img src="/ocr_result/20180416_173028.jpg" width=360 height=640/>
