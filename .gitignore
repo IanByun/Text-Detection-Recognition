@@ -108,3 +108,5 @@ crnn.pytorch/
 CRNN_Tensorflow/
 text-detection-ctpn/
 .idea/
+ocr_result/
+*.json
