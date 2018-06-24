@@ -103,7 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-COCO/
+COCO/train2014
 crnn.pytorch/
 CRNN_Tensorflow/
 text-detection-ctpn/

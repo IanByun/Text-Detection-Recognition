@@ -7,3 +7,6 @@
 [submodule "CRNN_Tensorflow"]
 	path = CRNN_Tensorflow
 	url = https://github.com/IanByun/CRNN_Tensorflow
+[submodule "COCO/coco-text"]
+	path = COCO/coco-text
+	url = https://github.com/IanByun/coco-text
