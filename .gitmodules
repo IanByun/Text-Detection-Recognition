@@ -1,0 +1,9 @@
+[submodule "crnn.pytorch"]
+	path = crnn.pytorch
+	url = https://github.com/IanByun/crnn.pytorch
+[submodule "text-detection-ctpn"]
+	path = text-detection-ctpn
+	url = https://github.com/IanByun/text-detection-ctpn
+[submodule "CRNN_Tensorflow"]
+	path = CRNN_Tensorflow
+	url = https://github.com/IanByun/CRNN_Tensorflow
